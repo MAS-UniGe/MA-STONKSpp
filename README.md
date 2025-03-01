@@ -1,5 +1,5 @@
-## Lorenzo Foschi
-## S&DAI
+## Individual Project for the Symbolic and Distributed AI course taught by Viviana Mascardi, academic year 2024-2025
+## Author: Lorenzo Foschi
 ### 05/02/2025
 
 MASprosumersFoschiReport.pdf: report
