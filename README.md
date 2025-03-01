@@ -1,5 +1,6 @@
-## Individual Project for the Symbolic and Distributed AI course taught by Viviana Mascardi, academic year 2024-2025
+## Individual Project for the Symbolic and Distributed AI course, University of Genova, IT 
 ## Author: Lorenzo Foschi
+## Teacher: Viviana Mascardi
 ### 05/02/2025
 
 MASprosumersFoschiReport.pdf: report
