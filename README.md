@@ -1,7 +1,7 @@
 ## Individual Project for the Symbolic and Distributed AI course, University of Genova, IT 
 ## Author: Lorenzo Foschi
 ### Teacher: Viviana Mascardi
-### 05/02/2025
+### Project delivered on February 2025
 
 This project is about integrating Multi-Agent Systems (MAS) concepts into an energy prosumer simulation tool to model decentralized peer-to-peer (P2P) electricity trading. 
 
