@@ -26,7 +26,7 @@ Handling dynamic neighbor discovery and adapting to network conditions.
 Ensuring scalability and real-world applicability. 
 
 Documentation:
-MASprosumersFoschiReport.pdf: report  
-MASprosumersFoschiReport.docx: report (it may have display problems on linux) 
-SLIDES/*.*: slides in different formats 
-CODE_REFERENCES: see README there 
+MASprosumersFoschiReport.pdf: report   
+MASprosumersFoschiReport.docx: report (it may have display problems on linux)  
+SLIDES/*.*: slides in different formats  
+CODE_REFERENCES: see README there  
